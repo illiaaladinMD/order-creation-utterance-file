@@ -1,0 +1,218 @@
+[
+    {
+        "intent": "order",
+        "language": "en-us",
+        "text": "I'd like a medium cheeseburger.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 11,
+                "length": 19
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Can I get a small chicken sandwich?",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 12,
+                "length": 22
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Give me a large coffee, please.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 10,
+                "length": 12
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "I'll have a small order of fries.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 12,
+                "length": 20
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "I want a grande latte with extra caramel.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 9,
+                "length": 31
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Could I get a slice of chocolate cake?",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 14,
+                "length": 23
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Please bring me a medium veggie wrap.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 18,
+                "length": 18
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "I'll take a small green salad.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 12,
+                "length": 17
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Can I order a large shrimp scampi?",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 14,
+                "length": 19
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Give me a medium strawberry smoothie.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 10,
+                "length": 26
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "I want a small bowl of miso soup.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 9,
+                "length": 23
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "I'd like a grande mocha frappuccino.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 11,
+                "length": 24
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Could you bring me a large chocolate milkshake?",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 21,
+                "length": 25
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Please give me a small turkey club sandwich.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 17,
+                "length": 26
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "I'll have a medium order of chicken wings.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 12,
+                "length": 29
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Can I get a large pepperoni calzone?",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 12,
+                "length": 23
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "Give me a small order of garlic bread.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 10,
+                "length": 27
+            }
+        ]
+    },
+    {
+        "language": "en-us",
+        "intent": "order",
+        "text": "I want a grande iced tea with lemon.",
+        "entities": [
+            {
+                "category": "food_item",
+                "offset": 9,
+                "length": 26
+            }
+        ]
+    }
+]
